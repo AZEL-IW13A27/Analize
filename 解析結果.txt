@@ -1,0 +1,32 @@
+=== JavaScript の解析結果 ===
+C:/Users/kirit/Desktop/analize\test.js
+  エラー: 文法チェックは限定的です（実行時エラーの可能性あり）
+
+=== 不明 の解析結果 ===
+C:/Users/kirit/Desktop/analize\build\analize\analize.pkg
+  エラー: ファイル読み込みエラー: 'utf-8' codec can't decode byte 0xda in position 1: invalid continuation byte
+
+C:/Users/kirit/Desktop/analize\build\analize\base_library.zip
+  エラー: ファイル読み込みエラー: 'utf-8' codec can't decode byte 0xd2 in position 14: invalid continuation byte
+
+C:/Users/kirit/Desktop/analize\build\analize\PYZ-00.pyz
+  エラー: ファイル読み込みエラー: 'utf-8' codec can't decode byte 0xcb in position 4: invalid continuation byte
+
+C:/Users/kirit/Desktop/analize\build\analize\localpycs\pyimod01_archive.pyc
+  エラー: ファイル読み込みエラー: 'utf-8' codec can't decode byte 0xcb in position 0: invalid continuation byte
+
+C:/Users/kirit/Desktop/analize\build\analize\localpycs\pyimod02_importers.pyc
+  エラー: ファイル読み込みエラー: 'utf-8' codec can't decode byte 0xcb in position 0: invalid continuation byte
+
+C:/Users/kirit/Desktop/analize\build\analize\localpycs\pyimod03_ctypes.pyc
+  エラー: ファイル読み込みエラー: 'utf-8' codec can't decode byte 0xcb in position 0: invalid continuation byte
+
+C:/Users/kirit/Desktop/analize\build\analize\localpycs\pyimod04_pywin32.pyc
+  エラー: ファイル読み込みエラー: 'utf-8' codec can't decode byte 0xcb in position 0: invalid continuation byte
+
+C:/Users/kirit/Desktop/analize\build\analize\localpycs\struct.pyc
+  エラー: ファイル読み込みエラー: 'utf-8' codec can't decode byte 0xcb in position 0: invalid continuation byte
+
+C:/Users/kirit/Desktop/analize\dist\analize.exe
+  エラー: ファイル読み込みエラー: 'utf-8' codec can't decode byte 0x90 in position 2: invalid start byte
+

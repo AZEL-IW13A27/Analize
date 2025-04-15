@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Analize アプリ プレゼン</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f0f0;
+      padding: 30px;
+    }
+    .card {
+      background: #fff;
+      padding: 25px;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+      margin-bottom: 30px;
+    }
+    h1 {
+      color: #333;
+    }
+    .label {
+      font-weight: bold;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <h1>Analize アプリ概要</h1>
+    <p><span class="label">目的:</span> 複数言語対応のプログラム構文解析ツール</p>
+    <p><span class="label">対応言語:</span> Python, JavaScript, Java, C, C++ 他</p>
+    <p><span class="label">機能:</span> ファイルの構文エラー検出、ログイン認証、言語別出力</p>
+    <p><span class="label">セキュリティ:</span> マスターID認証付き、ファイル検閲ログ</p>
+  </div>
+
+  <div class="card">
+    <h2>処理フロー</h2>
+    <ol>
+      <li>ログイン認証（ID/パスワード）</li>
+      <li>フォルダ選択</li>
+      <li>全ファイルスキャン・構文チェック</li>
+      <li>言語別に結果を整理</li>
+      <li>エラー内容のみ記録</li>
+    </ol>
+  </div>
+
+  <div class="card">
+    <h2>出力サンプル</h2>
+    <pre>
+=== JavaScript の解析結果 ===
+C:\projects\test.js
+  エラー: 文法チェックは限定的です（実行時エラーの可能性あり）
+
+=== C の解析結果 ===
+C:\code\main.c
+  エラー: expected ‘;’ before ‘return’
+    </pre>
+  </div>
+
+</body>
+</html>
